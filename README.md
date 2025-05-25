@@ -107,7 +107,7 @@ It should be used in production or further refined using:
 
 ## 👤 Author
 
-**[Your Name](https://github.com/your-username)**  
+**[Aarsh Desai](https://github.com/aarshdesai-ds)**  
 Robotics & Machine Learning Enthusiast | Forecasting | Data Fusion | Computer Vision
 
 ---
